@@ -1,4 +1,4 @@
-## ¡Hola a todos! 👋 Soy Javier 
+## ¡Hola a todos! 👋 Soy Javier Acedo
 Como Técnico en Desarrollo de Aplicaciones Multiplataforma y Web, soy un apasionado del desarrollo web y móvil, de la constante búsqueda de nuevas tecnologías y, en mi tiempo libre, de los videojuegos. Disfruto mucho desarrollando aplicaciones, enfrentándome a desafíos y profundizando mis conocimientos tecnológicos.
 
 ---
