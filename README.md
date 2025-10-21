@@ -7,7 +7,7 @@ Como Técnico en Desarrollo de Aplicaciones Multiplataforma y Web, soy un apasio
 
 * 🔭 Actualmente estoy en busca de trabajo.
 
-* 🌱 Actualmente estoy aprendiendo: Profundizar en React, me gustaria aprender otros frameworks de web, desarrollo de videojuegos, Laravel.
+* 🌱 Actualmente estoy aprendiendo: Estoy estudiando un curso de especialización de Inteligencia Artificial y BIg Data.
 
 * 👯 Busco colaborar en: En proyectos web, desarrollo de APIS, aplicaciones movil...
 
