@@ -23,7 +23,7 @@ Aquí tienes algunas de las tecnologías y herramientas con las que me siento c�
 
 | Categoría    | Habilidades                                                                           |
 | :----------- | :------------------------------------------------------------------------------------ |
-| **Lenguajes** | `JavaScript` `HTML` `CSS` `TypeScript` `Java` `C#` `SQL` `PHP` [etc.]                |
+| **Lenguajes** | `JavaScript` `HTML` `CSS` `TypeScript` `Java` `C#` `SQL` `PHP` `Python`              |
 | **Frameworks** | `React` `Flutter` `Laravel`                                                         |
 | **Bases de Datos** | `PostgreSQL` `MySQL` `SQLite`                                                   |
 | **Herramientas** | `Git` `Docker`  `VS Code`  `Figma`                                                |
