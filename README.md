@@ -10,6 +10,8 @@ Como Técnico en Desarrollo de Aplicaciones Multiplataforma y Web, soy un apasio
 * 🌱 Actualmente estoy aprendiendo: Estoy estudiando un curso de especialización de Inteligencia Artificial y BIg Data.
 
 * 👯 Busco colaborar en: En proyectos web, desarrollo de APIS, aplicaciones movil...
+  
+* ✨ Mi portfolio: ![enlace](https://l0rdxavi97.github.io/portfolio/)
 
 * 📫 Cómo contactarme: Mi correo es: jaaca97@gmail.com y mi [linkedin](https://www.linkedin.com/in/javier-acedo-caballero-5707562b8/) 
 
